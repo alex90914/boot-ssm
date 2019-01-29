@@ -1,0 +1,12 @@
+POST http://192.168.1.61:8080/job/addJob
+Content-Type: application/json
+
+###
+
+POST http://192.168.1.61:8080/job/delJob
+Content-Type: application/json
+
+###
+
+
+###
